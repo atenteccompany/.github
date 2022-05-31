@@ -1,4 +1,4 @@
-<img src="https://github.com/atenteccompany/.github-private/blob/4d80ce178a8afeb2c6a69b581ee7fbf06b65c94f/profile/safe_image.jpg" width="300px">
+<img src="https://github.com/atenteccompany/.github/blob/8e9f4e84406402d4c0c4c23a1943349c80c8aa91/profile/safe_image.jpg" width="300px">
 
 # AtenTEC Company - Projects Repository
 
