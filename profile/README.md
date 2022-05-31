@@ -1,6 +1,6 @@
 <img src="https://github.com/atenteccompany/.github/blob/8e9f4e84406402d4c0c4c23a1943349c80c8aa91/profile/safe_image.jpg" width="300px">
 
-# AtenTEC Company - Projects Repository
+# AtenTEC Company
 
 Welcome to AtenTEC Company, we help companies and organizations adopt modern business software and technologies. Help them grow and scale up their business. Provide more effective services for their customers.
 
