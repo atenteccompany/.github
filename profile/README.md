@@ -1,0 +1,20 @@
+<img src="https://github.com/atenteccompany/.github-private/blob/4d80ce178a8afeb2c6a69b581ee7fbf06b65c94f/profile/safe_image.jpg" width="300px">
+
+# AtenTEC Company - Projects Repository
+
+Welcome to AtenTEC Company, we help companies and organizations adopt modern business software and technologies. Help them grow and scale up their business. Provide more effective services for their customers.
+
+## Reach Us
+
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/company/atentec/mycompany/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub - Public Repositories](https://github.com/atentec)
+
+## Our Projects
+1. [Anchor - Ultimate Water Sports and Marina Management System](https://anchor.atentec.com)
+2. [Anchor - Taba and Red Sea Marina Operation](https://anchor.atentec.com/anchor-mms)
+3. [Anchor - Red Sea Tribe Customized Edition](https://anchor.atentec.com/anchor-ultimate)
+4. [EJCO - E-Commerce](https://www.ejco.com.eg)
+5. [ATOM - The Ultimate Maintenance Centers Operation Management](https://www.atentec.com)
+6. [AtenG - AtenTEC Flagship ORM](https://www.atentec.com)
+7. [Eazy Divers - Portal](https://www.eazydivers.com)
